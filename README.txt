@@ -85,29 +85,3 @@ Results of timing analysis are in the results pdf.
 
 diagrams are in their respective pdf files.
 
-/////////////////Distribution of work.///////////////////////
-
-There was a final exam for computer system eng studens the week of iteration 4. This had an effect on the quality of this iteration. Multiple computer implementation of subsystems not complete.
-
-Patrick
-Iter 1: Worked on Scheduler and Elevator model Subsystems, inPanel, outPanel.
-Iter 2: SchedulerQueue, ElevatorModel, ReadMethod, ArrivalSensor, Request, testing, Readme
-Iter 3: SchedulerQueue, ElevatorModel, ArrivalSensor, testing, readme
-Iter 4: Logger, Modificatios of code to use logger, Data collection & analysis, Readme
-
-Goutham
-Iter 1: Worked on Floor and Scheduler subsytems, readme. 
-Iter 2: ReadMethod, SchedulerQueue
-Iter 3: Floor, Readmethod, SchedulerQueue, testing
-
-
-Nikhil
-Iter 1: Worked on Elevator inPanel, outPanel, Queues and UML class diagrams.
-Iter 2: ReadMethod, SchedulerQueue, testing
-Iter 3: Readmethod, SchedulerQueue, Diagrams, testing
-Iter 4: IP connection
-
-Zehui
-Iter 1: Worked on State machine Diagram
-Iter 2: sequence diagram. 
-Iter 3: Timing diagram
